@@ -1,0 +1,7 @@
+D:\алесь\3 семестр\ООП\Лр1\Lab1C\Lab1.8\bin\Debug\Lab1.8.exe.config
+D:\алесь\3 семестр\ООП\Лр1\Lab1C\Lab1.8\bin\Debug\Lab1.8.exe
+D:\алесь\3 семестр\ООП\Лр1\Lab1C\Lab1.8\bin\Debug\Lab1.8.pdb
+D:\алесь\3 семестр\ООП\Лр1\Lab1C\Lab1.8\obj\Debug\Lab1.8.csproj.CoreCompileInputs.cache
+D:\алесь\3 семестр\ООП\Лр1\Lab1C\Lab1.8\obj\Debug\Lab1.8.exe
+D:\алесь\3 семестр\ООП\Лр1\Lab1C\Lab1.8\obj\Debug\Lab1.8.pdb
+D:\алесь\3 семестр\ООП\Лр1\Lab1C\Lab1.8\obj\Debug\Lab1.8.csproj.AssemblyReference.cache
